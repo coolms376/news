@@ -1,0 +1,26 @@
+{
+    "name": " News project PWA",
+    "short_name" : "News PWA",
+    "start_url" : "index.html",
+    "display" : "standalone",
+    "orientation" : "portrait",
+    "background_color"  : "#17202A",
+    "theme_color"  : "#5FAAF5",
+    "icons" : [
+        {
+            "src" : "NES.png",
+            "sizes" : "96x96",
+            "type" : "image/png"
+            
+        },
+        {
+            "src" : "abc.png",
+            "sizes" : "144x144",
+            "type" : "image/png"
+        },{
+            "src" : "NES.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
